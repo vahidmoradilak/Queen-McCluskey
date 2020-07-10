@@ -1,0 +1,2 @@
+# Queen-McCluskey
+piAndEpi
