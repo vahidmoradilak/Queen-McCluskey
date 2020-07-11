@@ -471,3 +471,4 @@ bool dCare(int x, int* d, int y)
 			s=1, i=y;
 	return s;
 }
+//
